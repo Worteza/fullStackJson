@@ -1,27 +1,27 @@
 [
   {
-    "image": "https://images.pexels.com/photos/1419781/pexels-photo-1419781.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "image": "https://images.pexels.com/photos/1438832/pexels-photo-1438832.jpeg?auto=compress&cs=tinysrgb&w=500",
     "address": "Aurorankatu 6, 00100, Helsinki",
     "size": 180,
     "price": 3200000,
     "text": "Located in the heart of Helsinki, this elegant building from the 1930s is perfect for families seeking a blend of history and modern comfort."
   },
   {
-    "image": "https://images.pexels.com/photos/159775/pexels-photo-159775.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "image": "https://images.pexels.com/photos/280222/pexels-photo-280222.jpeg?auto=compress&cs=tinysrgb&w=500",
     "address": "Lapinlahdenkatu 20, 00180, Helsinki",
     "size": 140,
     "price": 2500000,
     "text": "This contemporary apartment offers open-plan living spaces and is ideal for professionals looking to be close to the city center."
   },
   {
-    "image": "https://images.pexels.com/photos/210097/pexels-photo-210097.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "image": "https://images.pexels.com/photos/2079234/pexels-photo-2079234.jpeg?auto=compress&cs=tinysrgb&w=500",
     "address": "Fredrikinkatu 45, 00120, Helsinki",
     "size": 210,
     "price": 3600000,
     "text": "With vintage details and high ceilings, this residence captures Helsinki's timeless charm while offering modern amenities."
   },
   {
-    "image": "https://images.pexels.com/photos/238290/pexels-photo-238290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "image": "https://images.pexels.com/photos/209315/pexels-photo-209315.jpeg?auto=compress&cs=tinysrgb&w=500",
     "address": "Esplanadi 10, 00130, Helsinki",
     "size": 90,
     "price": 890000,
@@ -35,28 +35,28 @@
     "text": "A compact yet stylish home in a vibrant area, offering easy access to popular restaurants and shopping venues."
   },
   {
-    "image": "https://images.pexels.com/photos/2091167/pexels-photo-2091167.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "image": "https://images.pexels.com/photos/221024/pexels-photo-221024.jpeg?auto=compress&cs=tinysrgb&w=500",
     "address": "Uudenmaankatu 13, 00120, Helsinki",
     "size": 130,
     "price": 1050000,
     "text": "Located in a quiet, family-friendly area, this apartment provides ample space and easy access to parks and schools."
   },
   {
-    "image": "https://images.pexels.com/photos/275484/pexels-photo-275484.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "image": "https://images.pexels.com/photos/210617/pexels-photo-210617.jpeg?auto=compress&cs=tinysrgb&w=500",
     "address": "Runeberginkatu 20, 00100, Helsinki",
     "size": 230,
     "price": 1450000,
     "text": "Beautiful property with a private garden and large windows, perfect for families desiring a mix of indoor and outdoor living."
   },
   {
-    "image": "https://images.pexels.com/photos/212112/pexels-photo-212112.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "image": "https://images.pexels.com/photos/259593/pexels-photo-259593.jpeg?auto=compress&cs=tinysrgb&w=500",
     "address": "Lautatarhankatu 7, 00580, Helsinki",
     "size": 260,
     "price": 1900000,
     "text": "A luxurious villa with contemporary interiors and a spacious layout, ideal for entertaining and relaxation."
   },
   {
-    "image": "https://images.pexels.com/photos/3244512/pexels-photo-3244512.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "image": "https://images.pexels.com/photos/164522/pexels-photo-164522.jpeg?auto=compress&cs=tinysrgb&w=500",
     "address": "Kasarmikatu 18, 00130, Helsinki",
     "size": 280,
     "price": 2200000,
